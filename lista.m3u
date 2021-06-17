@@ -102,7 +102,7 @@ https://n11.stv.livebox.sk/stv-tv/4a13f03d0d11809d9ae57767d37b7102/SK-stv1.smil/
 #EXTINF:0  tvg-logo="http://www.contentmedia.ro/uploads/5/8/6/3/5863437/2035756_1.png",  STV (Euro 2021)
 https://n11.stv.livebox.sk/stv-tv/4a13f03d0d11809d9ae57767d37b7102/SK-stv2.smil/chunklist_b5251072.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/175px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",  DirecTV (Euro 2021)
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/175px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",  DirecTV (Euro 2021)
 https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/master.m3u8?hdnts=exp%3D1623952799~acl%3D*~hmac%3D9c68bc3689eefc0551ba48786d55a027436a0b41d71b9f3f9afe7487671575ea
 
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",  TNT Sports 
