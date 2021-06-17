@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, Gracias a Shake por los links de TVMax!
+#EXTINF:0, TV
 .----
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/ff/TC_Television_logo_2020.png/revision/latest?cb=20210129171312&path-prefix=es", TC (Solo partidos de Ecuador)
@@ -104,3 +104,12 @@ https://n11.stv.livebox.sk/stv-tv/4a13f03d0d11809d9ae57767d37b7102/SK-stv2.smil/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/175px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",  DirecTV (Euro 2021)
 https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/master.m3u8?hdnts=exp%3D1623952799~acl%3D*~hmac%3D9c68bc3689eefc0551ba48786d55a027436a0b41d71b9f3f9afe7487671575ea
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png",  TNT Sports 
+https://akamai2-br.cdn.booyah.live/hls/1000025/54589695.m3u8
+
+#EXTINF:0  tvg-logo="https://commons.wikimedia.org/wiki/File:ESPN_wordmark.svg", ESPN 
+https://edge9-sl.cvattv.com.ar//live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+
+
+ 
