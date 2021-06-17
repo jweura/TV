@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:0, Gracias a Shake por los links de TVMax!
+.----
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/ff/TC_Television_logo_2020.png/revision/latest?cb=20210129171312&path-prefix=es", TC (Solo partidos de Ecuador)
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg", TvG 2 (Algunos partidos)
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg"  ,TvG 2 (Algunos Partidos)
+https://events1-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",TvG 2
+https://events3-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png", Telefuturo (Solo partidos de Paraguay)
+http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/​TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png", Telefuturo (Solo partidos de Paraguay)
+http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4.m3u8
+
+#EXTINF:-2 tvg-logo="https://static3.teletica.com/Files/Sizes/2019/10/3/380624906_1140x520.png" ,Teletica (VPN)
+https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO59u8H0qkXJy1do0RPD09Psc)/dm/3/x29e3wg/d/live-3.m3u8
+
+#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.568959920_TVP20204.png.faf057234dec318eedf00a0bb0c44839.png", TV Publica Argentina (Solo partidos Ar)
+http://edge1.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/Canal7.m3u8
+
+#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.568959920_TVP20204.png.faf057234dec318eedf00a0bb0c44839.png",TV Publica Argentina (Solo partidos Ar)
+http://cdn.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/Canal7-audio_20000=144800-video=3900000.m3u8
+
+#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.568959920_TVP20204.png.faf057234dec318eedf00a0bb0c44839.png",TV Publica Argentina (Solo partidos Ar)
+https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8|Referer=https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&autoplay=true
+
+#EXTINF:-1 tvg-id="Canal 4 HD" tvg-logo="https://pbs.twimg.com/media/EgmG3hlWoAEtj2J.jpg" tvg-name="Canal 4 HD",Canal 4 (Solo partidos de Uruguay)
+http://chromecast.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
+
+#EXTINF:-1 tvg-id="Canal 10 HD" tvg-name="Canal 10 HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" tvg-url="" ,Canal 10 -(Solo partidos de Uruguay)
+http://cdn.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU.m3u8
+
+#EXTINF:-1 tvg-id="La Tele HD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" tvg-name="La Tele HD",Teledoce - (Solo partidos de Uruguay)
+http://chromecast.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating/Canal12URU.m3u8
+
+#EXTINF:0  tvg-logo="https://www.orthologismos.gr/wp-content/uploads/2017/12/open_beyond_tv.jpg", Open Beyond
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://www.orthologismos.gr/wp-content/uploads/2017/12/open_beyond_tv.jpg", Open Beyond HD
+https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TCS_El_Salvador_2002.svg/1200px-TCS_El_Salvador_2002.svg.png", TCS El Salvador
+https://secure-video.tcsgo.com/tcshd/index.m3u8
+
+#EXTINF:0  tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-4-en-vivo-1401.png", Canal 4 El Salvador (Solo Moviles)
+https://www.linkastream.co/headless?url=https://secure-video.tcsgo.com/canal4/index.m3u8|Referer=https://tcsgo.com/
+
+#EXTINF:0  tvg-logo="https://e7.pngegg.com/pngimages/582/428/png-clipart-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-miscellaneous-television.png", CCTV 5 (Euro y Copa)
+http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/1024px-SBT_logo.svg.png", SBT (Solo partidos de Brasil)
+https://stream-04.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2jyxbArM0wW7oVkuQtKmPVA)/dm/3/x80ipdt/s/live-3.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Haber_Global_logosu.png", Haber G (Turquia)
+https://stream-09.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSppsMc3yDrLxyyYvaFwVrmDA)/dm/3/x81x3cd/s/live-2.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Haber_Global_logosu.png", Haber Glob (Turqui) HD
+https://stream-09.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSppsMc3yDrLxyyYvaFwVrmDA)/dm/3/x81x3cd/s/live-4.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Photo-le-logo-de-l-equipe.jpg", L´equipe France
+https://stream-12.dc3.dailymotion.com/sec(jmwrVLE-qMrHoSxzTaKc5s_WDGgNuEAvaVvyCQE9bLk)/dm/3/x3x5e37/s/live-4.m3u8
+
+#EXTINF:0  tvg-logo="https://lateletuya.com/wp-content/uploads/2021/02/Logo-TLT-Amarillo.png", La Tele Tuya
+https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png", TVMax
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png", Tigo Sports
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png", Irib Varz (Eur 2021)
+https://sdm.telewebion.com/live/varzesh/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png", TRT 1 (Euro 2021) 
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png", TRT 1 (Euro 2021) VPN
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:0  tvg-logo="https://alchetron.com/cdn/tvm-malta-166a2cee-1a2b-40d8-bafb-0d2faa82149-resize-750.png", TVM Sport (Euro 2021)
+https://live.23video.com/live/amlst:feg864b5o82er8ni5s72hds0rd:16973314-1185a91eaad15f019b1b.mp4/chunklist.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/RTSH_%E2%80%93_Radio_Televizioni_Shqiptar_%282020_Logo%29.svg/1200px-RTSH_%E2%80%93_Radio_Televizioni_Shqiptar_%282020_Logo%29.svg.png", RTSH (Euro 2021)
+https://tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8
+
+#EXTINF:0  tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/rtsh-sport-vipotv-live.png", RTSH (Euro 2021)
+https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
+
+#EXTINF:0  tvg-logo="http://www.contentmedia.ro/uploads/5/8/6/3/5863437/2035756_1.png",  STV (Euro 2021)
+https://n11.stv.livebox.sk/stv-tv/4a13f03d0d11809d9ae57767d37b7102/SK-stv1.smil/chunklist_b5251072.m3u8
+
+#EXTINF:0  tvg-logo="http://www.contentmedia.ro/uploads/5/8/6/3/5863437/2035756_1.png",  STV (Euro 2021)
+https://n11.stv.livebox.sk/stv-tv/4a13f03d0d11809d9ae57767d37b7102/SK-stv2.smil/chunklist_b5251072.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/175px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",  DirecTV (Euro 2021)
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/master.m3u8?hdnts=exp%3D1623952799~acl%3D*~hmac%3D9c68bc3689eefc0551ba48786d55a027436a0b41d71b9f3f9afe7487671575ea
