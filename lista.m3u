@@ -114,4 +114,7 @@ https://edge9-sl.cvattv.com.ar//live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.m
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/175px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",  DirecTV (Opcion 2)
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/master.m3u8?hdnts=exp%3D1623964210~acl%3D*~hmac%3D0652ce8718b91e69dd3d9b9d3d8b2d681ae5d24ef5f89cdb62f2ba773db57157
+
  
