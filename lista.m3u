@@ -112,4 +112,7 @@ https://akamai2-br.cdn.booyah.live/hls/1000025/54589695.m3u8
 https://edge9-sl.cvattv.com.ar//live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png", TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
  
